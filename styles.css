@@ -1,0 +1,51 @@
+body {
+    background-color: lightcoral;
+    max-width: 900px;
+    margin: 5 auto;
+    padding: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+h1 {
+    text-align: center;
+    background-color: darkred;
+    font-size: 50px;
+    color: white;
+    text-shadow: 5px 5px black;
+    width: 400px;
+    margin: auto;
+    padding: 25px;
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: -18px;
+    display: block
+}
+
+p {
+    margin: auto;
+    padding: 25px;
+    text-align: center;
+}
+
+footer {
+    margin-top: 40px;
+    text-align:center
+}
+
+
+li {
+    color: black;
+}
+
+.container {
+    background-color: rosybrown;
+    display: inline-block;
+    border: 3px solid black;
+    padding-right: 30px;
+}
+
